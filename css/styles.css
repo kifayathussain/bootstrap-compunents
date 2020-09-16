@@ -1,0 +1,22 @@
+
+footer {
+    clear: both;
+    text-align: center;
+    color: #fff;
+    background-color: rgb(99, 44, 244);
+}
+
+
+footer p {
+    font-size: 13px;
+    line-height: 70px;
+}
+
+footer i {
+    color: #dc3545;
+}
+
+footer span {
+    color: crimson;
+    text-transform: uppercase;
+}
